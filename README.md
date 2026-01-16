@@ -43,14 +43,6 @@
 
 ---
 
-## 📌 Goals
-- Build meaningful projects  
-- Improve coding & problem-solving skills  
-- Contribute to open-source  
-- Create a strong developer portfolio
-
----
-
 ## 📊 GitHub Stats
 ![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehal976&show_icons=true&theme=tokyonight)
 
