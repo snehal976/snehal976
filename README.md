@@ -43,11 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehal976&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 - GitHub: [@snehal976](https://github.com/snehal976)
 
