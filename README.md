@@ -64,3 +64,7 @@
 - GitHub: [@snehal976](https://github.com/snehal976)
 
 ✨ *“Consistency beats motivation.”*
+
+<div align="center">
+  <img src="https://github.com/snehal976/snehal976/blob/output/snake.svg" alt="Snake animation" />
+</div>
