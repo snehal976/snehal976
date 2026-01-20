@@ -14,7 +14,17 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript  
+**Languages:**
+- C++
+- JavaScript
+- Python (basics)
+
+**Web Development:**
+
+- HTML5, CSS3
+- Tailwind CSS
+- Responsive UI Design
+
 - **Tools:** Git, GitHub, VS Code  
 - **Learning:** Full Stack Development / New Technologies
 
@@ -25,6 +35,16 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
+---
+## 📈 GitHub Activity
+
+> "I aim for consistent improvements, meaningful commits, and gradual mastery rather than rushed or inflated claims."
+
+<br>
+
+[![Snehal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehal976&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehal976&show_icons=true&theme=dark&hide_border=true)
 ---
 ## 🚀 Projects
 
