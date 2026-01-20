@@ -20,7 +20,7 @@ jobs:
           # The output images to create
           outputs: dist/snake.svg?palette=github-dark
           
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # The branch where the "snake.svg" file will be saved
           target_branch: output
