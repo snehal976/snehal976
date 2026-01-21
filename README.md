@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Stack
-### 🛠️ Tech Stack
+### Basic
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
